@@ -6,6 +6,7 @@ execute as @s[tag=zombie] run function vixcraft:enemies/melee/zombie/main
 execute as @s[tag=assassin] run function vixcraft:enemies/melee/assassin/main
 #Ranged
 execute as @s[tag=laser] run function vixcraft:enemies/ranged/laser/main
+execute as @s[tag=lightning] run function vixcraft:enemies/ranged/lightning/main
 #Defender
 #Support
 #CC
