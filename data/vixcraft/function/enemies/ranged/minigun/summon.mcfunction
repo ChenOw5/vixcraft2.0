@@ -1,0 +1,1 @@
+summon pillager ~ ~ ~ {CustomName:'[{"text":"Minigun"}]',Tags:["minigun","enemy"],Team:enemy,HandItems:[{id:crossbow,components:{charged_projectiles:[{id:arrow,count:1}],enchantments:{quick_charge:5},unbreakable:{}}},{}],HandDropChances:[0f,0f],OnGround:0b,DeathLootTable:"vixcraft:entities/nugget_3"}
