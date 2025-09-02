@@ -1,0 +1,11 @@
+attribute @s armor base reset
+attribute @s knockback_resistance base reset
+attribute @s attack_speed base reset
+attribute @s movement_speed base reset
+attribute @s attack_damage base reset
+attribute @s max_health base reset
+attribute @s armor_toughness base reset
+attribute @s attack_knockback base reset
+attribute @s explosion_knockback_resistance base reset
+attribute @s safe_fall_distance base reset
+attribute @s gravity base reset

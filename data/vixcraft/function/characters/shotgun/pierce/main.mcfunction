@@ -1,0 +1,2 @@
+title @s actionbar {"text":"|| Pierce Arrows: ","color":"dark_blue","extra":[{"score":{"name":"@s","objective":"piercearrows"},"color": "yellow"},{"text":" ||","color":"dark_blue"}]}
+execute if score @s piercearrows matches ..0 run tag @s remove piercearrow

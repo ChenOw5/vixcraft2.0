@@ -1,0 +1,10 @@
+execute as @s[tag=assassin] at @s run tellraw @a {"text":"","color": "black"}
+execute as @s[tag=knight] at @s run tellraw @a {"text":"","color": "gold"}
+execute as @s[tag=tank] at @s run tellraw @a {"text":"","color": "red"}
+execute as @s[tag=berserker] at @s run tellraw @a {"text":"","color": "green"}
+execute as @s[tag=archer] at @s run tellraw @a {"text":"","color": "dark_green"}
+execute as @s[tag=shotgun] at @s run tellraw @a {"text":"","color": "blue"}
+execute as @s[tag=healer] at @s run tellraw @a {"text":"","color": "light_purple"}
+execute as @s[tag=bastet] at @s run tellraw @a {"text":"","color": "yellow"}
+execute as @s[tag=sorcerer] at @s run tellraw @a {"text":"","color": "dark_purple"}
+execute as @s[tag=cryomancer] at @s run tellraw @a {"text":"","color": "aqua"}

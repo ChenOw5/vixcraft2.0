@@ -1,0 +1,1 @@
+execute at @s anchored eyes run summon armor_stand ^ ^ ^0.1 {OnGround:0b,Tags:["test_arrow"],Small:1b,Invisible:1b,Glowing:1b}

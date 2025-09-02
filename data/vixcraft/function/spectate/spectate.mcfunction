@@ -1,0 +1,1 @@
+execute unless entity @a[tag=!spectate,distance=..0.1] run spectate @a[tag=!spectate,limit=1,distance=0.1..] @s

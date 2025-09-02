@@ -1,0 +1,1 @@
+execute unless entity @e[tag=spectatesheercold,type=armor_stand,distance=..0.1] run spectate @e[tag=spectatesheercold,type=armor_stand,distance=..0.1,limit=1] @s

@@ -1,0 +1,1 @@
+summon shulker ~ ~ ~ {Tags:["enemy","laser"],Team:enemy,attributes:[{id:"max_health",base:40f}],Health:40,CustomName:"\"Laser\"",DeathLootTable:"vixcraft:entities/nugget_3",Peek:100b,NoAI:1b}

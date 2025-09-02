@@ -1,0 +1,2 @@
+execute if score @s weaponUpgrade matches ..2 at @s as @e[type=arrow,limit=5,sort=nearest,nbt={weapon:{components:{"minecraft:custom_name":'{"color":"dark_blue","italic":false,"text":"Shotgun"}'}}}] store result entity @s damage double 1.8 run data get entity @s damage
+execute if score @s weaponUpgrade matches 3.. at @s as @e[type=arrow,limit=5,sort=nearest,nbt={weapon:{components:{"minecraft:custom_name":'{"color":"dark_blue","italic":false,"text":"Shotgun"}'}}}] store result entity @s damage double 1.8 run data get entity @s damage

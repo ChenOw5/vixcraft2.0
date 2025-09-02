@@ -1,0 +1,1 @@
+summon zombie ~ ~ ~ {Tags:["enemy","bomber"],Team:enemy,attributes:[{id:"max_health",base:2.0d},{id:"attack_damage",base:0f},{id:"movement_speed",base:0.345}],Health:2,CustomName:"\"Bomber\"",IsBaby:1b,DeathLootTable:"vixcraft:entities/nugget_3"}

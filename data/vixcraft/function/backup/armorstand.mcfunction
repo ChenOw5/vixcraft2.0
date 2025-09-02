@@ -1,0 +1,2 @@
+summon minecraft:armor_stand 0.50 3.00 0.50 {Marker:1b,NoGravity:1b,Invisible:1b,Invulnerable:1b,Tags:["lobbymaster"],CustomName:'[{"text":"|| Welcome to Vixcraft ||","color":"yellow","bold":true}]',CustomNameVisible:1b}
+summon minecraft:armor_stand 9.50 4.00 -19.50 {Marker:1b,NoGravity:1b,Invisible:1b,Invulnerable:1b,CustomName:'[{"text":"|| Enter Dungeon ||","color":"light_purple","bold":true}]',CustomNameVisible:1b}

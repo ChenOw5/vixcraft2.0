@@ -1,0 +1,1 @@
+summon zombie ~ ~ ~ {Tags:["enemy","zombie"],Team:enemy,attributes:[{id:"max_health",base:25f},{id:"attack_damage",base:4f}],Health:25,CustomName:"\"Zombie\"",DeathLootTable:"vixcraft:entities/nugget_3"}

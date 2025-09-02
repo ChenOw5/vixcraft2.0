@@ -1,0 +1,2 @@
+execute as @e[type=arrow,limit=5,sort=nearest,nbt={weapon:{components:{"minecraft:custom_name":'{"color":"dark_blue","italic":false,"text":"Shotgun"}'}}},tag=!pointblank] run function vixcraft:characters/shotgun/pointblank/apply
+execute as @s[tag=piercearrow] as @e[type=arrow,limit=5,sort=nearest,nbt={weapon:{components:{"minecraft:custom_name":'{"color":"dark_blue","italic":false,"text":"Shotgun"}'}}},tag=!enchanced] run function vixcraft:characters/shotgun/pierce/apply

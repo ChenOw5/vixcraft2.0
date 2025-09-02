@@ -1,0 +1,6 @@
+summon minecraft:sheep -4.00 3.00 42.50 {CustomName:'[{"text":"|| Yin ||","color":"black"}]',NoAI:1b,Silent:1b,Invulnerable:1b,PersistenceRequired:1b,Color:15,Rotation:[180.0f,0.0f]}
+summon minecraft:sheep 5.00 3.00 42.50 {CustomName:'[{"text":"|| Yang ||","color":"white"}]',NoAI:1b,Silent:1b,Invulnerable:1b,PersistenceRequired:1b,Color:0,Rotation:[180.0f,0.0f]}
+summon minecraft:sheep 0.50 4.00 42.50 {CustomName:'[{"text":"jeb_"}]',attributes:[{"id":movement_speed,base:0.0f}],Invulnerable:1b,PersistenceRequired:1b,Rotation:[180.0f,0.0f]}
+summon minecraft:donkey 9.00 1.00 5.00 {CustomName:'[{"text":"donkey from shriek"}]',Invulnerable:1b,PersistenceRequired:1b,attributes:[{"id":movement_speed,base:0.0f}]}
+summon cow 24.00 1.00 0.00 {CustomName:'[{"text":"moo"}]',Invulnerable:1b,PersistenceRequired:1b,attributes:[{"id":movement_speed,base:0.0f}]}
+summon pig 22.50 1.00 5.00 {CustomName:'[{"text":"oinkers"}]',Invulnerable:1b,PersistenceRequired:1b,attributes:[{"id":movement_speed,base:0.0f}]}

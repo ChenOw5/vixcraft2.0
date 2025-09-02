@@ -1,0 +1,18 @@
+{
+  "type": "entity",
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_nugget"
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:constant",
+        "value": 1
+      }
+    }
+  ]
+}

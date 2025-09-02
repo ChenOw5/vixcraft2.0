@@ -1,0 +1,1 @@
+summon wither_skeleton ~ ~ ~ {Tags:["enemy","assassin"],Team:enemy,attributes:[{id:"max_health",base:15.0d},{id:"attack_damage",base:4f},{id:"movement_speed",base:0.35},{id:"scale",base:0.75},{id:"attack_knockback",base:8f}],Health:15,CustomName:"\"Assassin\"",DeathLootTable:"vixcraft:entities/nugget_3"}

@@ -1,0 +1,1 @@
+execute as @a[tag=player,distance=..1,gamemode=adventure] as @s at @s run summon creeper ~ ~ ~ {Fuse:0s,Invulnerable:1b,DeathLootTable:"vixcraft:entities/empty",CustomName:"\"Bomber\"",Team:enemy,powered:1b}

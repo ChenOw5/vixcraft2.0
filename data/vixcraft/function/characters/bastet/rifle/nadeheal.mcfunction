@@ -1,0 +1,2 @@
+execute if score @a[tag=bastet,limit=1] weaponUpgrade matches 1..2 run effect give @s[tag=!anti] instant_health 1 1 true
+execute if score @a[tag=bastet,limit=1] weaponUpgrade matches 3.. run effect give @s[tag=!anti] minecraft:instant_health 1 2 true

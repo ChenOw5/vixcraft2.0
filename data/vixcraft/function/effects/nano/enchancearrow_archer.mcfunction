@@ -1,0 +1,1 @@
+execute at @s as @e[type=arrow,limit=5,sort=nearest,nbt={weapon:{components:{"minecraft:custom_name":'{"color":"dark_green","italic":false,"text":"Reality Piercer"}'}}},tag=!pointblank] store result entity @s damage double 1.8 run data get entity @s damage

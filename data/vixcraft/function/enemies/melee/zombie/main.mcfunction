@@ -1,0 +1,1 @@
+execute as @a[tag=player,distance=..4,gamemode=adventure] run function vixcraft:enemies/melee/zombie/applyanti

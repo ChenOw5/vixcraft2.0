@@ -1,0 +1,1 @@
+scoreboard players remove @s skill2_cd 250

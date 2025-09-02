@@ -1,0 +1,2 @@
+execute as @s[tag=!invis] unless entity @a[tag=player,gamemode=adventure,distance=..4] run function vixcraft:enemies/melee/assassin/enterinvis
+execute as @s[tag=invis] if entity @a[tag=player,gamemode=adventure,distance=..4] run function vixcraft:enemies/melee/assassin/exitinvis

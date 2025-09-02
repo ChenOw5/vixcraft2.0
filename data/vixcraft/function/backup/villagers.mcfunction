@@ -1,0 +1,7 @@
+summon minecraft:villager 0.50 2.00 29.50 {VillagerData:{profession:"minecraft:farmer",level:99,type:"minecraft:taiga"},Invulnerable:1b,PersistenceRequired:1b,CustomName:'[{"text":"Jim","color":"green"}]'}
+summon minecraft:villager 0.50 2.00 29.50 {VillagerData:{profession:"minecraft:librarian",level:99,type:"minecraft:taiga"},Invulnerable:1b,PersistenceRequired:1b,CustomName:'[{"text":"Kim","color":"yellow"}]'}
+summon minecraft:villager 0.50 2.00 29.50 {VillagerData:{profession:"minecraft:armorer",level:99,type:"minecraft:taiga"},Invulnerable:1b,PersistenceRequired:1b,CustomName:'[{"text":"Mim","color":"dark_gray"}]'}
+summon minecraft:villager 0.50 2.00 29.50 {VillagerData:{profession:"minecraft:weaponsmith",level:99,type:"minecraft:taiga"},Invulnerable:1b,PersistenceRequired:1b,CustomName:'[{"text":"Tim","color":"gray"}]'}
+summon minecraft:villager 0.50 2.00 29.50 {VillagerData:{profession:"minecraft:toolsmith",level:99,type:"minecraft:taiga"},Invulnerable:1b,PersistenceRequired:1b,CustomName:'[{"text":"Lim","color":"dark_aqua"}]'}
+summon minecraft:villager 21.50 3.50 42.50 {VillagerData:{profession:"minecraft:cleric",level:99,type:"minecraft:plains"},Invulnerable:1b,PersistenceRequired:1b,CustomName:'[{"text":"Trandon","color":"white"}]'}
+summon minecraft:villager -14.50 -15.00 10.50 {VillagerData:{profession:"minecraft:leatherworker",level:99,type:"minecraft:plains"},Invulnerable:1b,PersistenceRequired:1b,CustomName:'[{"text":"Rim","color":"dark_purple"}]'}
