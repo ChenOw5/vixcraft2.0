@@ -9,3 +9,4 @@ execute store result entity @s Motion[0] double 0.02 run scoreboard players oper
 execute store result entity @s Motion[1] double 0.01 run scoreboard players operation @s motion_y2 -= @s motion_y1
 execute store result entity @s Motion[2] double 0.02 run scoreboard players operation @s motion_z2 -= @s motion_z1
 tag @s add applied_motion
+data modify entity @s Owner set from entity @e[type=pillager,tag=minigun,tag=enemy,limit=1,sort=nearest,distance=..2] UUID
