@@ -13,6 +13,7 @@ tag @s remove spectate
 tag @s remove skill1_cd
 tag @s remove skill2_cd
 function vixcraft:others/reset_stat
+function vixcraft:charms/reset
 scoreboard players reset @s
 team leave @s
 clear @s

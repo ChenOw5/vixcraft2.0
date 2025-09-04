@@ -69,6 +69,8 @@ scoreboard objectives add skill1cd_base dummy
 scoreboard objectives add skill2cd_base dummy
 scoreboard objectives add cd_reduction dummy
 scoreboard objectives add 100 dummy
+scoreboard objectives add combo dummy
+scoreboard objectives add swordplay dummy
 team add enemy
 tellraw @a {"text":"|| Vixcraft datapack loaded! ||","color":"green"}
 team add spectator
