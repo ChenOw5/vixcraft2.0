@@ -1,0 +1,1 @@
+summon stray ~ ~ ~ {Tags:["enemy","stray"],Team:enemy,attributes:[{id:"max_health",base:30f},{id:"movement_speed",base:0.3f}],Health:30,CustomName:"\"Stray\"",DeathLootTable:"vixcraft:entities/nugget_3",HandItems:[{id:bow,components:{unbreakable:{}}},{}],HandDropChances:[0f,0f]}
