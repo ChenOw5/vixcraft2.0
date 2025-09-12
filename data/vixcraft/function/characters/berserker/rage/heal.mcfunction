@@ -1,4 +1,4 @@
-scoreboard players operation @s berserkerheal /= @s two
+scoreboard players operation @s berserkerheal /= @s 10
 execute as @s[tag=anti] run scoreboard players set @s berserkerheal 0
 execute if score @s berserkerheal matches 1..2 run effect give @s regeneration 1 2 true
 execute if score @s berserkerheal matches 3 run effect give @s regeneration 1 3 true

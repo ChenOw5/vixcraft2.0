@@ -5,7 +5,7 @@ attribute @s knockback_resistance base set 0.5
 attribute @s safe_fall_distance base set 100000000
 give @s iron_axe[unbreakable={},enchantment_glint_override=true,custom_name='{"text":"War Axe","italic": false,"color":"green"}',enchantments={"wind_burst":2}]
 item replace entity @s armor.head with leather_helmet[unbreakable={},enchantment_glint_override=true,enchantments={"minecraft:binding_curse":10},dyed_color=65280]
-scoreboard players set @s two 20
+scoreboard players set @s 10 10
 scoreboard players set @s weaponUpgrade 1
 scoreboard players set @s armorUpgrade 1
 scoreboard players set @s skill1cd_base 320
