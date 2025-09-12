@@ -6,6 +6,7 @@ scoreboard objectives add damageResisted minecraft.custom:minecraft.damage_resis
 scoreboard objectives add totalHealed dummy
 scoreboard objectives add useBow minecraft.used:minecraft.bow
 scoreboard objectives add useCrossbow minecraft.used:minecraft.crossbow
+scoreboard objectives add useSkill dummy
 scoreboard objectives add arrowHit dummy
 scoreboard objectives add skill1 minecraft.used:minecraft.egg
 scoreboard objectives add skill2 minecraft.used:minecraft.snowball

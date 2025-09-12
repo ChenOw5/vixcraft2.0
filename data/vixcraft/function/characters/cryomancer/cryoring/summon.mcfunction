@@ -3,3 +3,4 @@ playsound minecraft:item.trident.riptide_1 master @s ~ ~ ~ 999 0
 playsound minecraft:item.trident.riptide_1 master @a[tag=!cryomancer] ~ ~ ~ 1 0
 particle minecraft:dust{color:[0,1,1],scale:1} ~ ~1 ~ 0.25 0.5 0.25 0 200
 scoreboard players remove @s mana 25
+scoreboard players add @s useSkill 1
