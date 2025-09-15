@@ -26,6 +26,7 @@ scoreboard objectives add total_damage_dealt dummy {"text":"|| Total Damage Deal
 scoreboard objectives add total_damage_taken dummy {"text":"|| Total Damage Taken ||","color": "yellow"}
 scoreboard objectives add total_healed dummy {"text":"|| Total Healed ||","color": "yellow"}
 scoreboard objectives add total_deaths dummy {"text":"|| Total Deaths ||","color": "yellow"}
+scoreboard objectives add total_arrow_hit dummy {"text":"|| Total Arrow Hits ||","color": "yellow"}
 scoreboard objectives add dash dummy
 scoreboard objectives add hitscan dummy
 scoreboard objectives add dashslash_recast dummy
@@ -73,6 +74,8 @@ scoreboard objectives add 100 dummy
 scoreboard objectives add combo dummy
 scoreboard objectives add swordplay dummy
 scoreboard objectives add 10 dummy
+scoreboard objectives add hitshieldcd dummy
+scoreboard objectives add fearless dummy
 team add enemy
 tellraw @a {"text":"|| Vixcraft datapack loaded! ||","color":"green"}
 team add spectator

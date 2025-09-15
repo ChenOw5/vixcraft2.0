@@ -1,0 +1,1 @@
+execute as @s[tag=guts] run function vixcraft:charms/defend/guts/trigger

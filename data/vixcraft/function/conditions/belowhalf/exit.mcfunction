@@ -1,0 +1,1 @@
+execute as @s[tag=adreanaline] run function vixcraft:charms/melee/adreanaline/exit

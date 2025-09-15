@@ -11,7 +11,15 @@ tag @s remove adreanaline
 #ranged
 #defend
 tag @s remove resolve
+tag @s remove guts
+tag @s remove valiant
+tag @s remove hitshield
+tag @s remove hitshieldcd
+tag @s remove fearless
+tag @s remove fearlessness
+tag @s remove bigguy
 #support
 #cc
 #attributes
 attribute @s attack_damage modifier remove combo
+function vixcraft:charms/melee/adreanaline/exit
