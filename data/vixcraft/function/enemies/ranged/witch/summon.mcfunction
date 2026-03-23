@@ -1,1 +1,1 @@
-summon witch ~ ~ ~ {Tags:["enemy","witch"],Team:enemy,attributes:[{id:"armor",base:10f}],CustomName:"\"Witch\"",DeathLootTable:"vixcraft:entities/nugget_3"}
+summon witch ~ ~ ~ {Tags:["enemy","witch"],Team:enemy,attributes:[{id:"armor",base:10f}],CustomName:"Witch",DeathLootTable:"vixcraft:entities/nugget_3"}

@@ -17,8 +17,6 @@ execute as @e[tag=naded] at @s run function vixcraft:effects/naded/main
 execute as @e[tag=nano] at @s run function vixcraft:effects/nano/main
 execute as @e[tag=taunt] at @s run function vixcraft:effects/taunt/main
 execute as @e[tag=anti] at @s run function vixcraft:effects/anti/main
-#Maps
-execute as @e[tag=lobbymaster] at @s run function vixcraft:lobby/main
 #Projectile
 execute as @e[tag=projectile] at @s run function vixcraft:projectiles/main
 #Charms
