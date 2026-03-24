@@ -1,0 +1,1 @@
+summon pillager ~ ~ ~ {CustomName:[{"text":"Shotgun"}],Tags:["shotgunEnemy","enemy"],Team:enemy,equipment:{mainhand:{id:crossbow,components:{charged_projectiles:[{id:arrow,count:1}],enchantments:{multishot:3},unbreakable:{}}}},drop_chances:{mainhand:0f,chest:0f,legs:0f,feet:0f},OnGround:0b,DeathLootTable:"vixcraft:entities/nugget_3"}

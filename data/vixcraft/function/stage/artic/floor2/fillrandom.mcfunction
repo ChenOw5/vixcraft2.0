@@ -1,0 +1,1 @@
+execute as @e[tag=articCenter] at @s run function vixcraft:stage/artic/floor2/randomamount

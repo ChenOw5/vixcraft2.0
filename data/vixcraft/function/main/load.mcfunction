@@ -76,6 +76,13 @@ scoreboard objectives add swordplay dummy
 scoreboard objectives add 10 dummy
 scoreboard objectives add hitshieldcd dummy
 scoreboard objectives add fearless dummy
+scoreboard objectives add floorRandom dummy
+scoreboard objectives add floor2Random dummy
+scoreboard objectives add structureRandom dummy
+scoreboard objectives add mobRandom dummy
+scoreboard objectives add waveRandom dummy
+scoreboard objectives add mobRandom dummy
+scoreboard objectives add round dummy
 team add enemy
 tellraw @a {"text":"|| Vixcraft datapack loaded! ||","color":"green"}
 team add spectator

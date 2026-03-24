@@ -22,6 +22,8 @@ execute as @e[tag=projectile] at @s run function vixcraft:projectiles/main
 #Charms
 execute as @a[tag=player] at @s run function vixcraft:conditions/main
 #Curse
+#Totems
+execute as @e[tag=battletotem] at @s run function vixcraft:battletotems/main
 #Other
 execute as @e[tag=icepillar,tag=trigger] at @s run function vixcraft:characters/cryomancer/icepillar/main
 

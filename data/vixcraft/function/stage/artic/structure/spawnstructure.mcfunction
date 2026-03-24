@@ -1,0 +1,2 @@
+spreadplayers 0.50 100.50 2 9 false @e[tag=articstructurerandom,tag=slave,type=minecraft:armor_stand]
+execute as @e[tag=articstructurerandom,tag=slave] at @s run function vixcraft:stage/artic/structure/randomise

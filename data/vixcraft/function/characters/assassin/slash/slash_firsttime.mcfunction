@@ -5,3 +5,4 @@ particle minecraft:dust{color:[0,0,0],scale:1} ~ ~1 ~ 0.25 0.5 0.25 0 200
 execute positioned ~ ~1 ~ run function vixcraft:characters/assassin/slash/dash
 playsound minecraft:entity.player.attack.sweep master @a ~ ~ ~ 1 1
 function vixcraft:cooldown/setskill1cd
+summon zombie ~ ~ ~ {equipment:{mainhand:{id:"iron_spear",count:1}}}

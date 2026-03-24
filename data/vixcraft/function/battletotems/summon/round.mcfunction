@@ -1,0 +1,9 @@
+execute if score @e[tag=gamemaster,type=armor_stand,limit=1] round matches 1 at @e[tag=activeStage] run summon armor_stand ~ ~ ~ {Marker:1b,Invisible:1b,NoGravity:1b,Tags:["battletotem","master","round1","init"]}
+execute if score @e[tag=gamemaster,type=armor_stand,limit=1] round matches 2 at @e[tag=activeStage] run summon armor_stand ~ ~ ~ {Marker:1b,Invisible:1b,NoGravity:1b,Tags:["battletotem","master","round2","init"]}
+execute if score @e[tag=gamemaster,type=armor_stand,limit=1] round matches 3 at @e[tag=activeStage] run summon armor_stand ~ ~ ~ {Marker:1b,Invisible:1b,NoGravity:1b,Tags:["battletotem","master","round3","init"]}
+execute if score @e[tag=gamemaster,type=armor_stand,limit=1] round matches 4 at @e[tag=activeStage] run summon armor_stand ~ ~ ~ {Marker:1b,Invisible:1b,NoGravity:1b,Tags:["battletotem","master","round4","init"]}
+execute if score @e[tag=gamemaster,type=armor_stand,limit=1] round matches 5 at @e[tag=activeStage] run summon armor_stand ~ ~ ~ {Marker:1b,Invisible:1b,NoGravity:1b,Tags:["battletotem","master","round5","init"]}
+execute if score @e[tag=gamemaster,type=armor_stand,limit=1] round matches 6 at @e[tag=activeStage] run summon armor_stand ~ ~ ~ {Marker:1b,Invisible:1b,NoGravity:1b,Tags:["battletotem","master","round6","init"]}
+execute if score @e[tag=gamemaster,type=armor_stand,limit=1] round matches 7 at @e[tag=activeStage] run summon armor_stand ~ ~ ~ {Marker:1b,Invisible:1b,NoGravity:1b,Tags:["battletotem","master","round7","init"]}
+execute if score @e[tag=gamemaster,type=armor_stand,limit=1] round matches 8 at @e[tag=activeStage] run summon armor_stand ~ ~ ~ {Marker:1b,Invisible:1b,NoGravity:1b,Tags:["battletotem","master","round8","init"]}
+execute if score @e[tag=gamemaster,type=armor_stand,limit=1] round matches 9 at @e[tag=activeStage] run summon armor_stand ~ ~ ~ {Marker:1b,Invisible:1b,NoGravity:1b,Tags:["battletotem","master","round9","init"]}

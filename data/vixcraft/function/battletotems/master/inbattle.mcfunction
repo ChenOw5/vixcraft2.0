@@ -1,0 +1,2 @@
+execute unless entity @e[tag=enemy] if score @s waveRandom matches 1.. run function vixcraft:battletotems/master/spawnwave
+execute unless entity @e[tag=enemy] if score @s waveRandom matches ..0 run function vixcraft:battletotems/master/clear
