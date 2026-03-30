@@ -1,1 +1,1 @@
-summon silverfish ~ ~ ~ {Tags:["enemy","bugg"],Team:enemy,attributes:[{id:"max_health",base:10f}],Health:10,CustomName:"Bugg",DeathLootTable:"vixcraft:entities/nugget_3"}
+summon silverfish ~ ~ ~ {Tags:["enemy","bugg"],Team:enemy,attributes:[{id:"max_health",base:10f},{id:"scale",base:2f}],Health:10,CustomName:"Bugg",DeathLootTable:"vixcraft:entities/nugget_2"}

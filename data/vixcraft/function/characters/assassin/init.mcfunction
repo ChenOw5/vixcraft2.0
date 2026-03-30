@@ -1,4 +1,3 @@
-tag @s add player
 tag @s add assassin
 team join assassin @s
 attribute @s attack_damage base set 4

@@ -1,0 +1,1 @@
+summon guardian ~ ~ ~ {Tags:["enemy","guardian"],Team:enemy,CustomName:"Guardian",DeathLootTable:"vixcraft:entities/nugget_4"}

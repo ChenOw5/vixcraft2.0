@@ -1,5 +1,6 @@
 #Character Reset
 execute as @s[tag=assassin] run function vixcraft:characters/assassin/reset
+execute as @s[tag=knight] run function vixcraft:characters/knight/reset
 execute as @s[tag=shotgun] run function vixcraft:characters/shotgun/reset
 execute as @s[tag=berserker] run function vixcraft:characters/berserker/reset
 execute as @s[tag=bastet] run function vixcraft:characters/bastet/reset

@@ -83,6 +83,9 @@ scoreboard objectives add mobRandom dummy
 scoreboard objectives add waveRandom dummy
 scoreboard objectives add mobRandom dummy
 scoreboard objectives add round dummy
+scoreboard objectives add chivalryTimer dummy
+scoreboard objectives add stuntimer dummy
+scoreboard objectives add chivalryStack dummy
 team add enemy
 tellraw @a {"text":"|| Vixcraft datapack loaded! ||","color":"green"}
 team add spectator

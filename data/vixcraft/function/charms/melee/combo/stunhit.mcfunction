@@ -1,4 +1,4 @@
-effect give @s slowness 1 199 true
-effect give @s weakness 1 199 true
+scoreboard players set @s stuntimer 20 
+tag @s add stunned
 execute anchored eyes run particle minecraft:enchanted_hit ~ ~1 ~ 1 1 1 1 10
 execute anchored eyes run particle minecraft:crit ~ ~1 ~ 1 1 1 1 10

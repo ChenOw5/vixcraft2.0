@@ -1,0 +1,1 @@
+summon evoker ~ ~ ~ {Tags:["enemy","evoker"],Team:enemy,CustomName:"Evoker",DeathLootTable:"vixcraft:entities/nugget_6",attributes:[{id:"armor",base:10f}]}

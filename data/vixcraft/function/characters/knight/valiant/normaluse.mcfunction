@@ -1,0 +1,2 @@
+execute anchored eyes run function vixcraft:animations/knight_slash
+function vixcraft:characters/knight/valiant/normaluse_hitscan
