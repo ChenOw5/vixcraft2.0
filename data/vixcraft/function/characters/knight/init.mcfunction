@@ -11,5 +11,5 @@ scoreboard players set @s armorUpgrade 1
 scoreboard players set @s skill1cd_base 160
 scoreboard players set @s skill2cd_base 160
 give @s egg[enchantment_glint_override=true,custom_name={"text":"Unwavering Thrust","italic": false,"color":"gold"},lore=[{"text":"Lock into place and charge up for 1s","italic":false},{"text":"Dealing damage to all enemies infront of you up to 6 blocks","italic":false},{"text":"Deals 2.5x damage to enemies with Chivalry","italic":false},{"text":"8s CD","italic":false}]] 1
-give @s snowball[enchantment_glint_override=true,custom_name={"text":"Valiant","italic": false,"color":"gold"},lore=[{"text":"Use : Stun enemies in a line","italic":false},{"text":"Crouch Use : Group all enemies in a line","italic":false},{"text":"Both attacks stun and apply Chivalry","italic":false},{"text":"12s CD","italic":false}]] 2
+give @s snowball[enchantment_glint_override=true,custom_name={"text":"Valiant","italic": false,"color":"gold"},lore=[{"text":"Use : Stun enemies in a line","italic":false},{"text":"Crouch Use : Group all enemies in a line","italic":false},{"text":"Both attacks stun and apply Chivalry","italic":false},{"text":"8s CD","italic":false}]] 2
 function vixcraft:characters/init

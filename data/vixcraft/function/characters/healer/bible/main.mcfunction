@@ -1,0 +1,2 @@
+execute unless predicate vixcraft:healer/hold_book run function vixcraft:characters/healer/bible/remove
+execute if predicate vixcraft:healer/hold_book run function vixcraft:characters/healer/bible/holdingbook

@@ -4,6 +4,7 @@ execute as @s[tag=knight] run function vixcraft:characters/knight/reset
 execute as @s[tag=shotgun] run function vixcraft:characters/shotgun/reset
 execute as @s[tag=berserker] run function vixcraft:characters/berserker/reset
 execute as @s[tag=bastet] run function vixcraft:characters/bastet/reset
+execute as @s[tag=healer] run function vixcraft:characters/healer/reset
 execute as @s[tag=cryomancer] run function vixcraft:characters/cryomancer/reset
 execute as @s[tag=npc] run function vixcraft:characters/npc/reset
 #Effect Reset

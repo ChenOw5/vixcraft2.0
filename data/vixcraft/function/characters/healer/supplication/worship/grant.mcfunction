@@ -1,0 +1,1 @@
+attribute @s minecraft:max_health modifier add worship1 0.5 add_multiplied_base

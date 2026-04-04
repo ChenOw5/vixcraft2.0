@@ -1,0 +1,9 @@
+execute if predicate vixcraft:healer/reflect_reflect run function vixcraft:characters/healer/bible/grantback/reflect_reflect
+execute if predicate vixcraft:healer/reflect_worship run function vixcraft:characters/healer/bible/grantback/reflect_worship
+execute if predicate vixcraft:healer/reflect_plead run function vixcraft:characters/healer/bible/grantback/reflect_plead
+execute if predicate vixcraft:healer/worship_reflect run function vixcraft:characters/healer/bible/grantback/worship_reflect
+execute if predicate vixcraft:healer/worship_worship run function vixcraft:characters/healer/bible/grantback/worship_worship
+execute if predicate vixcraft:healer/worship_plead run function vixcraft:characters/healer/bible/grantback/worship_plead
+execute if predicate vixcraft:healer/plead_reflect run function vixcraft:characters/healer/bible/grantback/plead_reflect
+execute if predicate vixcraft:healer/plead_worship run function vixcraft:characters/healer/bible/grantback/plead_worship
+execute if predicate vixcraft:healer/plead_plead run function vixcraft:characters/healer/bible/grantback/plead_plead

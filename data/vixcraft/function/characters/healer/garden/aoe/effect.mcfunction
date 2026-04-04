@@ -1,0 +1,1 @@
+execute as @a[tag=player,distance=..7.5] run function vixcraft:characters/healer/garden/aoe/buffgain

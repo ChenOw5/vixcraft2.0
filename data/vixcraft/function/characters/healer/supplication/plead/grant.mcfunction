@@ -1,0 +1,1 @@
+attribute @s movement_speed modifier add plead1 0.2 add_multiplied_base

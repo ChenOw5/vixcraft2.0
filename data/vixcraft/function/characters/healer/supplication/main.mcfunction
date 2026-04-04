@@ -1,0 +1,2 @@
+execute as @s[tag=!supp] if entity @a[tag=orison] run function vixcraft:characters/healer/supplication/grant
+execute as @s[tag=supp] unless entity @a[tag=orison] run function vixcraft:characters/healer/supplication/remove

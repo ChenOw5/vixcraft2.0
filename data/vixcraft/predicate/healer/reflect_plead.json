@@ -1,0 +1,23 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "slots": {
+      "weapon.offhand": {
+        "items": "minecraft:writable_book",
+        "components": {
+          "minecraft:writable_book_content": {
+            "pages": [
+              {
+                "raw": "reflection"
+              },
+              {
+                "raw": "pleading"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

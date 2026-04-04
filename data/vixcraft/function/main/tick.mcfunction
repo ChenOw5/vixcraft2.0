@@ -4,6 +4,7 @@ execute as @a[tag=knight,tag=!stunned] at @s run function vixcraft:characters/kn
 execute as @a[tag=shotgun,tag=!stunned] at @s run function vixcraft:characters/shotgun/main
 execute as @a[tag=berserker,tag=!stunned] at @s run function vixcraft:characters/berserker/main
 execute as @a[tag=bastet,tag=!stunned] at @s run function vixcraft:characters/bastet/main
+execute as @a[tag=healer,tag=!stunned] at @s run function vixcraft:characters/healer/main
 execute as @a[tag=cryomancer,tag=!stunned] at @s run function vixcraft:characters/cryomancer/main
 #Cooldown
 execute as @a[tag=skill1_cd] at @s run function vixcraft:cooldown/skill1/main
@@ -20,6 +21,7 @@ execute as @e[tag=taunt] at @s run function vixcraft:effects/taunt/main
 execute as @e[tag=anti] at @s run function vixcraft:effects/anti/main
 execute as @e[tag=chivalry] at @s run function vixcraft:effects/chivalry/main
 execute as @e[tag=stunned] at @s run function vixcraft:effects/stun/main
+execute as @e[tag=orison] at @s run function vixcraft:effects/orison/main
 #Projectile
 execute as @e[tag=projectile] at @s run function vixcraft:projectiles/main
 #Charms

@@ -86,6 +86,9 @@ scoreboard objectives add round dummy
 scoreboard objectives add chivalryTimer dummy
 scoreboard objectives add stuntimer dummy
 scoreboard objectives add chivalryStack dummy
+scoreboard objectives add cw_particleplot dummy
+scoreboard objectives add orisonTimer dummy
+scoreboard objectives add immuneTimer dummy
 team add enemy
 tellraw @a {"text":"|| Vixcraft datapack loaded! ||","color":"green"}
 team add spectator
